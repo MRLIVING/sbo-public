@@ -4,7 +4,7 @@
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
 
 ## Troubleshooting 
-### Check/Enable windows firewall has RDP Connections
+### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
 
 * check Windows firewall RDP status
 ```
@@ -20,3 +20,6 @@ netsh advfirewall firewall set rule group="遠端桌面" new enable=Yes
 ```
 netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 ```
+
+## Reference
+* [GCE Troubleshooting RDP](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp)
