@@ -6,7 +6,7 @@
 ## Troubleshooting 
 ### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
 
-* check Windows firewall RDP status
+* check windows firewall RDP status
 ```
 netsh advfirewall firewall show rule name="Remote Desktop - User Mode (TCP-In)
 ```
