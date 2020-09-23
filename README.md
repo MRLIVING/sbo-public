@@ -1,10 +1,14 @@
 # sap-b1
 
 ## Troubleshooting 
-### Enable Windows firewall has RDP Connections
+### Enable windows firewall has RDP Connections
+
+* chinese version
 ```
 netsh advfirewall firewall set rule group="遠端桌面" new enable=Yes
 ```
+
+* english version
 ```
 netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 ```
