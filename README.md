@@ -1,4 +1,8 @@
 # sap-b1
+
+## GCE
+
+
 ## MSSQL
 ### Windows firewall configuration
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
