@@ -5,7 +5,7 @@
 * Operating system
   * `Windows Server`
 * Version 
-  * `Windows Server Datacenter 2019`, Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features
+  * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 
 ## MSSQL
 ### Windows firewall configuration
