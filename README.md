@@ -7,6 +7,17 @@
 * Version 
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 
+### CPU/Memory
+
+### Disks
+#### MSSQL
+* drive `C:` with `200 GB` capacity.
+* drive `D:` with `300 GB` capacity.
+
+#### SAP-B1
+* a single drive`C:` drive with `200 GB` capacity.
+
+
 ## MSSQL
 ### Windows firewall configuration
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
