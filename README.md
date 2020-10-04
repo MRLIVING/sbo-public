@@ -17,6 +17,8 @@
 #### SAP-B1
 * a single drive`C:` drive with `200 GB` capacity.
 
+#### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
+* we shoud use Domain name to specify server during installation steps.
 
 ## MSSQL
 ### Windows firewall configuration
