@@ -1,5 +1,9 @@
 # sap-b1
 
+## SAP B1 Client setup
+# 
+
+
 ## Servers SAP B1 on GCE
 ### Image selection
 * Operating system version
