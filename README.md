@@ -10,7 +10,7 @@
 
 ### sap b1 client installation
 1. connect to the private cloud `vpc-erp` through VPN.  
-   please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.
+   please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.  
 
 2. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
 
@@ -45,6 +45,9 @@
 #### SAP-B1 server
 
 ## Troubleshooting 
+### []
+
+
 ### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
 
 * check windows firewall RDP status
