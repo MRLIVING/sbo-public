@@ -12,16 +12,21 @@
 
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow4.png" width="200" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow5.png" width="200" />
 
+
 ### Install sap b1 client 
 1. connect to the private cloud `vpc-erp` through VPN.  
    please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.  
 
-2. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
+2. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive. (the process would take some minutes) 
 
-3. right-click the file `B1_SHR.zip` and unzip it. 
+3. right-click the file `B1_SHR.zip` and unzip it. (the process would take some minutes)
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_unzip_package.png" width="200" />
 
 4. 
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_runasadmin.png" width="200" />
+
+
+
 
 
 ## SAP B1 and related servers on GCE
