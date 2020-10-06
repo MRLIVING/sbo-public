@@ -1,1 +1,1 @@
-*  illustration images 
+* illustration images 
