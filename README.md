@@ -26,7 +26,13 @@
    right-click `setup.exe` and select `Run as administrator`
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_runasadmin.png" width="200" />
 
-
+5. based on each step instructions to complete the installation.
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_flow1.png" width="100" />
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_flow2.png" width="100" />
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_flow3.png" width="100" />
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_flow4.png" width="100" />
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_flow5.png" width="100" />
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_flow6.png" width="100" />
 
 
 
