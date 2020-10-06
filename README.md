@@ -1,10 +1,8 @@
 # sap-b1
 
-## GCE
+## SAP B1 server on GCE
 ### Image selection
-* Operating system
-  * `Windows Server`
-* Version 
+* Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 
 ### CPU/Memory
