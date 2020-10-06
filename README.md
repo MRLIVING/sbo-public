@@ -22,7 +22,8 @@
 3. right-click the file `B1_SHR.zip` and unzip it. (the process would take some minutes)
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_unzip_package.png" width="200" />
 
-4. looking for a file under `B1_SHR\B1_SHR\Client.x64\setup.exe` from the extracted package and right-click "Run as administrator"
+4. looking for a file under `B1_SHR\B1_SHR\Client.x64\setup.exe` from the extracted package, 
+   right-click `setup.exe` and select `Run as administrator`
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_setup_runasadmin.png" width="200" />
 
 
