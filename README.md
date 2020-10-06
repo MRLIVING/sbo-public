@@ -43,6 +43,7 @@
 
 Unfortunately, if you get a warning message `"Fail to Connect System Landscape Directory"` before get into the client program.
 please check [Here](fail-to-connect-system-landscape-directorysld-contact-your-system-administrator) to solve this problem.
+
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_.FailtoConnectSLDPNG.PNG" width="100" />
 
 
