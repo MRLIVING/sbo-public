@@ -8,6 +8,9 @@
 
 3. follows the program instructions to complete the installation.
 
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow1.png" width="200" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow2.png" width="200" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow3.png" width="200" />
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow4.png" width="200" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow5.png" width="200" />
+
 ### sap b1 client installation
 1. connect to the private cloud `vpc-erp` through VPN.  
    please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.  
