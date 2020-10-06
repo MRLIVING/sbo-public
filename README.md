@@ -1,7 +1,7 @@
 # sap-b1
 
 ## SAP B1 Client setup
-### install Microsoft ODBC Driver 13 for SQL Server
+### install Microsoft ODBC Driver 13 for SQL Server 
 1. download [msodbcsql.msi](https://drive.google.com/file/d/1aaKjcsxlMgPjUMTmNnhMCvczeuN3sTZA/view?usp=sharing) from cloud drive.
 
 2. double-click the file `msodbcsql.msi` to launch installation program.
@@ -9,12 +9,14 @@
 3. follows the program instruction to complete the installation.
 
 ### sap b1 client installation
-1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
+1. connect to the `vpc-erp` private cloud through VPN.  
+   please check here to setup the VPN if you did not do it before.
 
-2. right-click the file `B1_SHR.zip` and unzip it. 
+2. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
 
+3. right-click the file `B1_SHR.zip` and unzip it. 
 
-3. 
+4. 
 
 
 ## SAP B1 and related servers on GCE
