@@ -4,7 +4,9 @@
 ### install Microsoft ODBC Driver 13 for SQL Server
 1. download [msodbcsql.msi](https://drive.google.com/file/d/1aaKjcsxlMgPjUMTmNnhMCvczeuN3sTZA/view?usp=sharing) from cloud drive.
 
-2. 
+2. double-click the file `msodbcsql.msi` to launch installation program.
+
+3. follows the program instruction to complete the installation.
 
 ### sap b1 client installation
 1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
