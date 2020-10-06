@@ -41,7 +41,7 @@
 
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_doubleclick.PNG" width="70" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_input_id_pw.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_welcome.PNG" width="100" />
 
-Unfortunately, if you get a warning message "Fail to Connect System Landscape Directory" before get into the client program.
+Unfortunately, if you get a warning message `"Fail to Connect System Landscape Directory"` before get into the client program.
 please check [Here]() to solve this problem.
 
 
@@ -71,7 +71,8 @@ please check [Here]() to solve this problem.
 #### SAP-B1 server
 
 ## Troubleshooting 
-### []
+### Fail to Connect System Landscape Directory(SLD). Contact your system administrator
+* the message always show after launch the client program if the SAP B1 client installation program does not generate the file `b1-local-machine.xml` currectly.
 
 
 ### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
