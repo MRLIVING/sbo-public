@@ -19,6 +19,7 @@
 2. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
 
 3. right-click the file `B1_SHR.zip` and unzip it. 
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_unzip_package.png" width="200" />
 
 4. 
 
