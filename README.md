@@ -1,7 +1,13 @@
 # sap-b1
 
 ## SAP B1 Client setup
-1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from Google drive.
+### install Microsoft ODBC Driver 13 for SQL Server
+1. download [msodbcsql.msi](https://drive.google.com/file/d/1aaKjcsxlMgPjUMTmNnhMCvczeuN3sTZA/view?usp=sharing) from cloud drive.
+
+2. 
+
+### sap b1 client installation
+1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
 
 2. right-click the file `B1_SHR.zip` and unzip it. 
 
