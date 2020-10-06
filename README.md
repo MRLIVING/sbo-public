@@ -1,7 +1,8 @@
 # sap-b1
 
 ## SAP B1 Client setup
-# 
+1. download `B1_SHR.zip` from the cloud folder [sapb1-client/](https://drive.google.com/drive/folders/1XdgJM_EAaHpVxkx1ZxOv4noJvnLqthvR?usp=sharing)
+2. unzip the file `B1_SHR.zip`
 
 
 ## Servers SAP B1 on GCE
