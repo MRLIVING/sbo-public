@@ -1,26 +1,29 @@
 # sap-b1
 
-## SAP B1 server on GCE
+## Servers SAP B1 on GCE
 ### Image selection
 * Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 
 ### CPU/Memory
+* at least 2vCPU, 4GB memory (e2-medium)
 
 ### Disks
 #### MSSQL
 * drive `C:` with `200 GB` capacity.
 * drive `D:` with `300 GB` capacity.
 
-#### SAP-B1
+#### SAP-B1 server
 * a single drive`C:` drive with `200 GB` capacity.
 
 #### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
 * we shoud use Domain name to specify server during installation steps.
 
-## MSSQL
-### Windows firewall configuration
+### Windows firewall configuration 
+#### MSSQL
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
+
+#### SAP-B1 server
 
 ## Troubleshooting 
 ### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
