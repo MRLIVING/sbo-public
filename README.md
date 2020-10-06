@@ -5,7 +5,7 @@
 2. unzip the file `B1_SHR.zip`
 
 
-## Servers SAP B1 on GCE
+## SAP B1 and related servers on GCE
 ### Image selection
 * Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
