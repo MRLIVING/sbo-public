@@ -41,6 +41,8 @@
 
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_doubleclick.PNG" width="70" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_input_id_pw.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_welcome.PNG" width="100" />
 
+Unfortunately, if you get a warning message "Fail to Connect System Landscape Directory" before get into the client program.
+please check [Here]() to solve this problem.
 
 
 ## Setup SAP B1 Server and MSSQL Server on GCE
