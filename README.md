@@ -15,7 +15,7 @@
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 
 ### CPU/Memory
-* 2 vCPU with 4GB memory (e2-medium), at least.
+* `2vCPU with 4GB memory` (e2-medium), at least.
 
 ### Disks
 #### MSSQL
