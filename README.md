@@ -80,7 +80,7 @@ the message always show after launch the client program if the SAP B1 client ins
 
 * download [b1-local-machine.xml](https://drive.google.com/file/d/1m9Tk_ebx5t2ILbT_EX5WUklp1HpE4XRP/view?usp=sharing)
 
-* copy the download file into the path `C:\Program Files\SAP\SAP Business One\Conf`.
+* copy the download file into the path `C:\Program Files\SAP\SAP Business One\Conf` (replace if the file `b1-local-machine.xml` is existence).
 
 * reopen the SAP B1 client program again.
 
