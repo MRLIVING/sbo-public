@@ -3,7 +3,10 @@
 ## SAP B1 Client setup
 1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from Google drive.
 
-2. unzip the file `B1_SHR.zip`
+2. right-click the file `B1_SHR.zip` and unzip it. 
+
+
+3. 
 
 
 ## SAP B1 and related servers on GCE
