@@ -1,6 +1,6 @@
 ## TOC
 * [SAP B1 Client setup](#sap-b1-client-setup)
-* [## Setup SAP B1 Server and MSSQL Server on GCE]()
+* [Setup SAP B1 Server and MSSQL Server on GCE](#setup-sap-b1-server-and-mssql-server-on-gce)
 
 
 ## SAP B1 Client setup
