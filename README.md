@@ -1,4 +1,7 @@
-# sap-b1
+## TOC
+* [SAP B1 Client setup](#sap-b1-client-setup)
+* [## Setup SAP B1 Server and MSSQL Server on GCE]()
+
 
 ## SAP B1 Client setup
 ### Install Microsoft ODBC Driver 13 for SQL Server 
