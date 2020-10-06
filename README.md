@@ -74,8 +74,13 @@ please check [Here](#fail-to-connect-system-landscape-directorysld-contact-your-
 
 ## Troubleshooting 
 ### Fail to Connect System Landscape Directory(SLD). Contact your system administrator
-* the message always show after launch the client program if the SAP B1 client installation program does not generate the file `b1-local-machine.xml` currectly.
+the message always show after launch the client program if the SAP B1 client installation program does not generate the file `b1-local-machine.xml` currectly.
 
+* download [b1-local-machine.xml]([https://drive.google.com/file/d/1m9Tk_ebx5t2ILbT_EX5WUklp1HpE4XRP/view?usp=sharing])
+
+* copy the download file into the path `C:\Program Files\SAP\SAP Business One\Conf`.
+
+* reopen the SAP B1 client program again.
 
 ### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
 
