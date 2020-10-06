@@ -9,8 +9,8 @@
 3. follows the program instruction to complete the installation.
 
 ### sap b1 client installation
-1. connect to the `vpc-erp` private cloud through VPN.  
-   please check [HERE](https://github.com/MRLIVING/vpn) to setup the VPN if you did not do it before.
+1. connect to the private cloud `vpc-erp` through VPN.  
+   please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.
 
 2. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive.
 
