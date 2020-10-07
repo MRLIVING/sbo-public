@@ -4,6 +4,7 @@
   * [Install Install SAP B1 Client](#install-sap-b1-client)
   * [Launch sap b1 client appliction](#launch-sap-b1-client-appliction)
 * [Setup SAP B1 Server and MSSQL Server on GCE](#setup-sap-b1-server-and-mssql-server-on-gce)
+* [Troubleshooting](#troubleshooting)
 
 
 ## Setup SAP B1 Client 
