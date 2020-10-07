@@ -22,7 +22,7 @@
 1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive. (the process would take some minutes) 
 
 2. **connect to the private cloud `vpc-erp` through VPN**.  
-   please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.  
+   please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you have not done it before.  
 
 3. right-click the file `B1_SHR.zip` and unzip it. (the process would take some minutes)
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_client_unzip_package.png" width="100" />
