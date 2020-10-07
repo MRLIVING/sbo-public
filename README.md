@@ -5,7 +5,7 @@
 * [Setup SAP B1 Server and MSSQL Server on GCE](#setup-sap-b1-server-and-mssql-server-on-gce)
 
 
-## SAP B1 Client setup
+## Setup SAP B1 Client 
 ### Install Microsoft ODBC Driver 13 for SQL Server 
 1. download [msodbcsql.msi](https://drive.google.com/file/d/1aaKjcsxlMgPjUMTmNnhMCvczeuN3sTZA/view?usp=sharing) from the cloud drive.
 
