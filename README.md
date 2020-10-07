@@ -1,7 +1,7 @@
 ## TOC
 * [SAP B1 Client setup](#sap-b1-client-setup)
   * [Install Microsoft ODBC Driver 13 for SQL Server](#install-microsoft-odbc-driver-13-for-sql-server)
-  * [Install sap b1 client](#install-sap-b1-client)
+  * [Install Install SAP B1 Client](#install-sap-b1-client)
 * [Setup SAP B1 Server and MSSQL Server on GCE](#setup-sap-b1-server-and-mssql-server-on-gce)
 
 
@@ -18,7 +18,7 @@
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow4.png" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/odoc_driver_setup_flow5.png" width="100" />
 
 
-### Install sap b1 client 
+### Install SAP B1 Client 
 1. connect to the private cloud `vpc-erp` through VPN.  
    please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you did not do it before.  
 
