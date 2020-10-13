@@ -1,5 +1,5 @@
 ## TOC
-* [SAP B1 Client setup](#sap-b1-client-setup)
+* [SAP B1 Client setup](#setup-sap-b1-client)
   * [Install Microsoft ODBC Driver 13 for SQL Server](#install-microsoft-odbc-driver-13-for-sql-server)
   * [Install Install SAP B1 Client](#install-sap-b1-client)
   * [Launch sap b1 client appliction](#launch-sap-b1-client-appliction)
