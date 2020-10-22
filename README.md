@@ -55,10 +55,10 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 ### Install Data Transfer Workbench
 1. [Install Microsoft ODBC Driver 13 for SQL Server](#install-microsoft-odbc-driver-13-for-sql-server)
 
-2. download [Data Transfer Workbench](https://drive.google.com/file/d/1Y8cPIpAEjGXDu4MYSX-6KLjlsjshIfQG/view?usp=sharing) from cloud drive
+2. download [Data Transfer Workbench](https://drive.google.com/file/d/1Y8cPIpAEjGXDu4MYSX-6KLjlsjshIfQG/view?usp=sharing) from cloud drive  
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow1.PNG" width="100" />
 
-3. follows the program instructions to complete the installation.
+3. follows the program instructions to complete the installation.  
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow2.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow3.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow4.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow5.PNG" width="100" />
 
 ## Setup SAP B1 Server and MSSQL Server on GCE
