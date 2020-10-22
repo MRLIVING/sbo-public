@@ -53,7 +53,12 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 ## Setup SAP B1 Data Transfer Workbench
 ### Install Data Transfer Workbench
-* TODO
+1. [Install Microsoft ODBC Driver 13 for SQL Server](#install-microsoft-odbc-driver-13-for-sql-server)
+
+2. double-click the file `msodbcsql.msi` to launch the installation program.
+
+3. follows the program instructions to complete the installation.
+
 
 
 
