@@ -115,6 +115,11 @@ netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 * [SAP Business One 10.0 CHT](https://help.sap.com/viewer/68a2e87fb29941b5bf959a184d9c6727/10.0/zh-TW)
 * [Learn SAP Business One - Installing the Client on RDS/Workstation](https://www.youtube.com/watch?v=uRwZEFS74G8)
 * [How to fix Network Discovery in Windows Server 2019](https://www.youtube.com/watch?v=TCU__saEr0w)
+
+### Service Layer
+* [Service Layer 1/6: API](https://www.youtube.com/watch?v=zaF_i7x9-s0)
+* [SAP Business One Service Layer implementation using JavaScript](https://www.youtube.com/watch?app=desktop&v=ilDH8nhnp4o)
+
 ### B1if
 * [Part 1-Creating Web Services with B1if](https://www.youtube.com/watch?v=N9hLVwJDEz4)
 * [Part 2-Creating Web Services with B1if](https://www.youtube.com/watch?v=UwNvElqVc6c)
