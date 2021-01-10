@@ -63,7 +63,23 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow2.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow3.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow4.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow5.PNG" width="100" />
 
-## Setup SAP B1 Server and MSSQL Server on GCE
+## Setup MSSQL Server on GCE
+### Image selection
+* Operating system version
+  * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
+  
+### CPU/Memory
+* `2vCPU with 4GB memory` (e2-medium), at least.
+
+### Disks
+* drive `C:` with `200 GB` capacity.
+* drive `D:` with `300 GB` capacity.
+
+### Windows firewall configuration 
+* [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
+
+
+## Setup SAP B1 Server on GCE
 ### Image selection
 * Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
@@ -72,26 +88,20 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * `2vCPU with 4GB memory` (e2-medium), at least.
 
 ### Disks
-#### MSSQL
-* drive `C:` with `200 GB` capacity.
-* drive `D:` with `300 GB` capacity.
-
-#### SAP-B1 server
 * a single drive`C:` drive with `200 GB` capacity.
 
-#### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
+### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
 * we shoud use Domain name to specify server during installation steps.
-
-### Windows firewall configuration 
-#### MSSQL
-* [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
-
-#### SAP-B1 server
-* TODO
 
 ### B1 Service Layer 
 * Installation
-![](https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sbo_service_layer_setup_wizard.PNG)
+<img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sbo_service_layer_setup_wizard.PNG" width="100"/>
+
+
+### Windows firewall configuration 
+* SAP-B1 server ports
+TODO
+
 
 
 ## Troubleshooting 
