@@ -93,8 +93,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 ### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
 * we shoud use Domain name to specify server during installation steps.
 
-### B1 Service Layer 
-* Installation
+## Setup B1 Service Layer
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sbo_service_layer_setup_wizard.PNG" width="100"/>
 
 
