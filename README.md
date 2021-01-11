@@ -130,7 +130,7 @@ netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 * [How to fix Network Discovery in Windows Server 2019](https://www.youtube.com/watch?v=TCU__saEr0w)
 
 ### Service Layer
-* [Working with SAP Business One Service Layer, v1.19]((https://drive.google.com/drive/u/0/folders/168k8QMwLaGS5uQ737_fVFQKEdf9c6OlQ)
+* [Working with SAP Business One Service Layer, v1.19](https://drive.google.com/drive/u/0/folders/168k8QMwLaGS5uQ737_fVFQKEdf9c6OlQ)
 * [Service Layer 1/6: API](https://www.youtube.com/watch?v=zaF_i7x9-s0)
 * [PHP Service Layer Example Part 1](https://www.syedhussim.com/sap-b1/php-service-layer-example-part-1.html)
 * [PHP Service Layer Example Part 2](https://syedhussim.com/sap-b1/php-service-layer-example-part-2.html)
