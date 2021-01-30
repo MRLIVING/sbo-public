@@ -103,7 +103,7 @@ TODO
 
 ### 
 * Install [Monolog](https://github.com/Seldaek/monolog)  
-  `apt-get install -y php-monolog`
+  `composer require monolog/monolog`
 
 ## Troubleshooting 
 * [Fail to Connect System Landscape Directory(SLD). Contact your system administrator](https://github.com/MRLIVING/sap-b1/issues/4)
