@@ -101,9 +101,13 @@ TODO
 ## Setup B1 Service Layer
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sbo_service_layer_setup_wizard.PNG" width="100"/>
 
+### Grant Permission to Indirect access user
+TODO...
+
 ### 
 * Install [Monolog](https://github.com/Seldaek/monolog)  
   `composer require monolog/monolog`
+
 
 ## Troubleshooting 
 * [Fail to Connect System Landscape Directory(SLD). Contact your system administrator](https://github.com/MRLIVING/sap-b1/issues/4)
