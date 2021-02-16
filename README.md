@@ -141,6 +141,7 @@ netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 * [PHP Service Layer Example Part 1](https://www.syedhussim.com/sap-b1/php-service-layer-example-part-1.html)
 * [PHP Service Layer Example Part 2](https://syedhussim.com/sap-b1/php-service-layer-example-part-2.html)
 * [SAP Business One Service Layer implementation using JavaScript](https://www.youtube.com/watch?app=desktop&v=ilDH8nhnp4o)
+* [SAP Business One Service Layer – SQL Query](https://blogs.sap.com/2021/01/08/new-sap-business-one-service-layer-sql-query/)
 
 ### B1if
 * [Part 1-Creating Web Services with B1if](https://www.youtube.com/watch?v=N9hLVwJDEz4)
