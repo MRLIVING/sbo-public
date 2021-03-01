@@ -105,7 +105,7 @@ TODO
 ### Grant permission to Indirect Access user
 * Administrator > System Initialization > Authorizations > General Authorizations
 
-![](https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_auth_iau.PNG)
+<img src="https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_auth_iau.PNG" width="100" />
 
 ### 
 * Install [Monolog](https://github.com/Seldaek/monolog)  
