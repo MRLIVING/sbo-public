@@ -98,11 +98,12 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 TODO
 
 
-## Setup B1 Service Layer
+## SBO Service Layer
+### Compoent Installation 
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sbo_service_layer_setup_wizard.PNG" width="100"/>
 
-### Grant Permission to Indirect access user
-TODO...
+### Grant permission to Indirect Access user
+* Administrator > System Initialization > Authorizations > General Authorizations
 
 ### 
 * Install [Monolog](https://github.com/Seldaek/monolog)  
