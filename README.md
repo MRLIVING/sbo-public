@@ -85,7 +85,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * Disks
   * a single drive`C:` drive with `200 GB` capacity.
 * Change Computer Name and Reboot
-  `sap-b1`
+  * `sap-b1`
   
 ### SBO Components selection
 * Repository
