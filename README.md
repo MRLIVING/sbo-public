@@ -79,19 +79,17 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
 
 ## Setup SAP B1 Server on GCE
+### Machine & OS
 * Image selection - Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
-
 * CPU/Memory
-  * `2vCPU with 13GB memory` (e2-medium), at least.
-  * 
+  * `2vCPU with 13GB memory` (e2-medium), at least.  
 * Disks
   * a single drive`C:` drive with `200 GB` capacity.
-
-* Computer name
+* Change Computer Name and Reboot
   `sap-b1`
-
-### Components selection
+  
+### SBO Components selection
 * Repository
 * Service Layer
 * Web Client
