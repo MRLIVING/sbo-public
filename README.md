@@ -69,7 +69,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
   
 ### CPU/Memory
-* `2vCPU with 4GB memory` (e2-medium), at least.
+* `2vCPU with 13GB memory` (e2-medium), at least.
 
 ### Disks
 * drive `C:` with `200 GB` capacity.
@@ -78,17 +78,29 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 ### Windows firewall configuration 
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
 
-
 ## Setup SAP B1 Server on GCE
 ### Image selection
 * Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 
 ### CPU/Memory
-* `2vCPU with 4GB memory` (e2-medium), at least.
+* `2vCPU with 13GB memory` (e2-medium), at least.
 
 ### Disks
 * a single drive`C:` drive with `200 GB` capacity.
+
+### Components selection
+* Repository
+* Service Layer
+* Web Client
+* SLD, License Manager
+* Data Interface Server
+* Data Interface API
+* SAP Business One Client
+* Solution Packager
+* Data Transfer WorkBench
+* Integration Solution Components
+
 
 ### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
 * we shoud use Domain name to specify server during installation steps.
