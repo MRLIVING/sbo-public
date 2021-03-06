@@ -86,20 +86,21 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * a single drive`C:` drive with `200 GB` capacity.
 * Change Computer Name and Reboot
   * `sap-b1`
-  
-### SBO Components selection
-* Repository
-* Service Layer
-* Web Client
-* SLD, License Manager
-* Data Interface Server
-* Job Service
-* Data Interface API
-* SAP Business One Client
-* Browser Access Service
-* Solution Packager
-* Data Transfer WorkBench
-* Integration Solution Components
+
+### Setup wizard
+* SBO Components selection
+  * Repository
+  * Service Layer
+  * Web Client
+  * SLD, License Manager
+  * Data Interface Server
+  * Job Service
+  * Data Interface API
+  * SAP Business One Client
+  * Browser Access Service
+  * Solution Packager
+  * Data Transfer WorkBench
+  * Integration Solution Components
 
 
 ### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
