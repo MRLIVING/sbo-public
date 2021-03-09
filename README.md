@@ -110,7 +110,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * we shoud use Domain name to specify server during installation steps.
 
 ### Windows firewall configuration 
-* SAP-B1 server ports
+* SAP-B1 server ports  
   see p.174, [Appendix 1: List of Default Ports for Different Server Components](https://drive.google.com/file/d/1CjoukIl53q7EyCqi2HxNedJ1ZQqScwxr/view?usp=sharing)
 
 ## SBO Service Layer
