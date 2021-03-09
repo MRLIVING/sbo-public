@@ -88,7 +88,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * `sap-b1`
 
 ### GCE Name & Device
-* **IMPORTANT** *Instance name* of GCE must identical to *OS Device name*
+* **IMPORTANT** **Instance name** of GCE must identical to **OS Device name**, otherwise 
 <img src="https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_setup_machineName.PNG" width="100" />
 
 ### Setup wizard
@@ -106,13 +106,17 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * Data Transfer WorkBench
   * Integration Solution Components
 
-
 ### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
 * we shoud use Domain name to specify server during installation steps.
 
 ### Windows firewall configuration 
 * SAP-B1 server ports
-TODO
+```
+30000-30001, 40000-40001
+50000-50001
+8080
+8100
+```
 
 
 ## SBO Service Layer
