@@ -87,6 +87,10 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * Change Computer Name and Reboot
   * `sap-b1`
 
+### GCE Name & Device
+* **IMPORTANT** *Instance name* of GCE must identical to *OS Device name*
+![]()
+
 ### Setup wizard
 * SBO Components selection
   * Repository
