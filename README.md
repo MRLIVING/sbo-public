@@ -89,7 +89,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 ### GCE Name & Device
 * **IMPORTANT** *Instance name* of GCE must identical to *OS Device name*
-<img src="(https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_setup_machineName.PNG" width="100" />
+<img src="https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_setup_machineName.PNG" width="100" />
 
 ### Setup wizard
 * SBO Components selection
