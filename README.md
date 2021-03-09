@@ -111,13 +111,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 ### Windows firewall configuration 
 * SAP-B1 server ports
-```
-30000-30001, 40000-40001
-50000-50001
-8080
-8100
-```
-
+  see p.174, [Appendix 1: List of Default Ports for Different Server Components](https://drive.google.com/file/d/1CjoukIl53q7EyCqi2HxNedJ1ZQqScwxr/view?usp=sharing)
 
 ## SBO Service Layer
 ### Compoent Installation 
