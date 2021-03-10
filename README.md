@@ -88,8 +88,9 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * `sap-b1`
 
 ### GCE Name & Device
-* **IMPORTANT** **Instance name** of GCE must identical to **OS Device name**, otherwise 
-<img src="https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_setup_machineName.PNG" width="100" />
+* **IMPORTANT**    
+  The **instance GCE name** must be identical to the **OS Device name**; otherwise, it will fail to connect with the License Server.
+  <img src="https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_setup_machineName.PNG" width="100" />
 
 ### Setup wizard
 * SBO Components selection
