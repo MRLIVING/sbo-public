@@ -154,6 +154,8 @@ netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 * [SAP Business One 10.0 CHT](https://help.sap.com/viewer/68a2e87fb29941b5bf959a184d9c6727/10.0/zh-TW)
 * [Learn SAP Business One - Installing the Client on RDS/Workstation](https://www.youtube.com/watch?v=uRwZEFS74G8)
 * [How to fix Network Discovery in Windows Server 2019](https://www.youtube.com/watch?v=TCU__saEr0w)
+* [How to Create User-Defined Fields and Tables](https://help.sap.com/doc/e8d8abefb22343a586d744db9cba0bcb/9.3/en-US/How_to_Create_User_Defined_Fields_and_Tables.pdf)
+* [UDF ](https://help.sap.com/doc/saphelpiis_hc_b1_image_repository_consultant_training_basic_b1_90_tb1200_03_02_pdf/9.0/en-US/B1_90_TB1200_03_02.pdf)
 
 ### Service Layer
 * [Working with SAP Business One Service Layer, v1.19](https://drive.google.com/file/d/1zJrT66eANJBmXofoTzi0CidAAVDEDjMu/view?usp=sharing)
