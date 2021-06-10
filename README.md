@@ -167,6 +167,7 @@ netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 ### B1if
 * [Part 1-Creating Web Services with B1if](https://www.youtube.com/watch?v=N9hLVwJDEz4)
 * [Part 2-Creating Web Services with B1if](https://www.youtube.com/watch?v=UwNvElqVc6c)
+* [Open SAP courses](https://open.sap.com/courses?q=Integration%20Framework)
 
 ### B1UP
 * [B1 Usability Package](https://help.boyum-it.com/B1UP/index.html?b1usabilitypackage.html)
