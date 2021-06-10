@@ -170,3 +170,4 @@ netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
 
 ### B1UP
 * [B1 Usability Package](https://help.boyum-it.com/B1UP/index.html?b1usabilitypackage.html)
+* [B1UP Tips and Tricks](https://boyum-it.com/b1up100/)
