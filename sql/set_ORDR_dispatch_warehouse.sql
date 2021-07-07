@@ -30,5 +30,5 @@ SET ORDR.[U_DISPATCH_WH] =
             FROM T3
             WHERE T3.U_WH = '中倉'
         ) THEN 2
-        ELSE 0
+        ELSE U_DISPATCH_WH
      END)
