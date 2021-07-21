@@ -39,53 +39,62 @@ SELECT DISTINCT *
 FROM(
         SELECT '' AS "Checkbox",
              T0.DocEntry AS DocEntryC1,
-             T0.DocNum,
-             T0.CardName,
-             T0.DocDate,
-             T0.U_Dispatch_WH,
-             R1.U_item_ldeli
+             T0.DocNum AS '文件編號',
+             T0.CardName AS '客戶名',
+             T0.DocDate AS '訂單日期',
+             T0.U_Dispatch_WH AS '分派倉庫'
  FROM ORDR T0 
  LEFT JOIN RDR1 R1 ON T0.DocEntry = R1.DocEntry  
  
  WHERE T0.DocStatus = 'O' AND T0.U_Dispatch_WH IN (SELECT value FROM @values )
-
+  AND R1.OpenQty > 0
   AND ((T0.DocDate >=  @StartDocDate 
   AND T0.DocDate <=  @EndDocDate)
   AND (R1.U_item_ldeli >= @StartItemDate 
   AND R1.U_item_ldeli <= @EndItemDate))
 ) T99
 END
-IF @EndDocDate <> @NullDate AND @EndItemDate = @NullDate 
+
+ELSE IF @EndDocDate <> @NullDate AND @EndItemDate = @NullDate 
 BEGIN
 SELECT DISTINCT *
 FROM(
         SELECT '' AS "Checkbox",
              T0.DocEntry AS DocEntryC2,
-             T0.DocNum,
-             T0.CardName,
-             T0.DocDate,
-T0.U_Dispatch_WH
+             T0.DocNum AS '文件編號',
+             T0.CardName AS '客戶名',
+             T0.DocDate AS '訂單日期',
+             T0.U_Dispatch_WH AS '分派倉庫'
  FROM ORDR T0  
  WHERE T0.DocStatus = 'O' AND T0.U_Dispatch_WH IN (SELECT value FROM @values ) 
   AND T0.DocDate >=  @StartDocDate 
   AND T0.DocDate <=  @EndDocDate
 ) T99
 END
-IF @EndDocDate = @NullDate AND @EndItemDate <> @NullDate 
+
+ELSE IF @EndDocDate = @NullDate AND @EndItemDate <> @NullDate 
 BEGIN
 SELECT DISTINCT *
 FROM(
         SELECT '' AS "Checkbox",
              T0.DocEntry AS DocEntryC3,
-             T0.DocNum,
-             T0.CardName,
-             T0.DocDate,
-             R1.U_item_ldeli,
-T0.U_Dispatch_WH
+             T0.DocNum AS '文件編號',
+             T0.CardName AS '客戶名',
+             T0.DocDate AS '訂單日期',
+             T0.U_Dispatch_WH AS '分派倉庫'
  FROM ORDR T0  
   LEFT JOIN RDR1 R1 ON T0.DocEntry = R1.DocEntry  
  WHERE T0.DocStatus = 'O' AND T0.U_Dispatch_WH IN (SELECT value FROM @values )
+  AND R1.OpenQty > 0 
   AND R1.U_item_ldeli >= @StartItemDate 
   AND R1.U_item_ldeli <= @EndItemDate
 ) T99
+END
+
+ELSE 
+BEGIN
+
+SELECT '' AS "Checkbox"
+,'請至少輸入一個篩選值，請關閉此報表視窗' AS '提示訊息'
+
 END
