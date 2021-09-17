@@ -132,22 +132,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 ## Troubleshooting 
 * [Fail to Connect System Landscape Directory(SLD). Contact your system administrator](https://github.com/MRLIVING/sap-b1/issues/4)
 
-### [Check/Enable RDP connections through windows firewall](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp#os_configuration)
-
-* check windows firewall RDP status
-```
-netsh advfirewall firewall show rule name="Remote Desktop - User Mode (TCP-In)
-```
-
-* chinese version
-```
-netsh advfirewall firewall set rule group="遠端桌面" new enable=Yes
-```
-
-* english version
-```
-netsh advfirewall firewall set rule group="remote desktop" new enable=Yes
-```
+* [Unable use RDP to connect the Windows system](https://github.com/MRLIVING/sbo/issues/21)
 
 ## Reference
 * [GCE Troubleshooting RDP](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-rdp)
