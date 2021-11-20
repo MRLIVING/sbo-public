@@ -64,7 +64,9 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow2.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow3.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow4.PNG" width="100" /> <img src="https://github.com/MRLIVING/sap-b1/blob/master/doc/img/sapb1_dtw_setup_flow5.PNG" width="100" />
 
+
 ## Setup MSSQL Server on GCE
+### [Editions and supported features of SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-version-15)
 ### Machine & OS
 * Image selection - Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)  
@@ -76,6 +78,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 ### Windows firewall configuration 
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
+
 
 ## Setup SAP B1 Server on GCE
 ### Machine & OS
