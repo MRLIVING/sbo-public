@@ -5,6 +5,7 @@
   * [Launch sap b1 client appliction](#launch-sap-b1-client-appliction)
 * [Setup SAP B1 Data Transfer Workbench](#setup-sap-b1-data-transfer-workbench)
 * [Setup SAP B1 Server and MSSQL Server on GCE](#setup-mssql-server-on-gce)
+* [Setup SAP B1 Server on GCE]()
 * [Troubleshooting](#troubleshooting)
 
 
