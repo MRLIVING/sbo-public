@@ -97,7 +97,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   
   <img src="https://github.com/MRLIVING/sbo/blob/master/doc/img/sbo_setup_machineName.PNG" width="100" />
 
-### Setup wizard
+### [Setup wizard](https://storage.cloud.google.com/cadmen_ftp/%E5%AE%89%E8%A3%9D%E7%9B%B8%E9%97%9C%E8%B3%87%E6%96%99/%E5%AE%89%E8%A3%9D%E6%89%8B%E5%86%8A/setup%20SAP%20Business%20One.pdf)
 * SBO Components selection
   * Repository
   * Service Layer
