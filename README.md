@@ -108,6 +108,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * Data Interface API
   * SAP Business One Client
   * Browser Access Service
+  * Software Development Kit (SDK)
   * Solution Packager
   * Data Transfer WorkBench
   * Integration Solution Components
