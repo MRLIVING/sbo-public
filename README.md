@@ -114,6 +114,12 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * Data Transfer WorkBench
   * Integration Solution Components
 
+
+## Upgrade SAP B1 Server on a new GCE
+### Setup the new SAP server on GCE
+  *
+
+
 ### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
 * we shoud use Domain name to specify server during installation steps.
 
