@@ -116,8 +116,9 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 
 ## Upgrade SAP B1 Server on a new GCE
-### Setup the new SAP server on GCE
-  *
+### [Setup the new SAP server on GCE](#setup-sap-b1-server-on-gce)
+### restore Database to the new MSSQL server
+### run SAP setup to upgreade database
 
 
 ### [Cloud DNS](https://console.cloud.google.com/net-services/dns)
