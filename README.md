@@ -86,7 +86,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)
 * CPU/Memory
   * `2vCPU with 13GB memory` (e2-medium), at least.
-  * `4vCPUs with 16GB memory` is highly recommendation especially under installation and upgrade.
+  * `4vCPUs with 16GB memory` is highly recommendation (especially under installation and upgrade). Otherwise, unexpected errors arise in installation.
 * Disks
   * a single drive`C:` drive with `200 GB` capacity.
 * Change Computer Name and Reboot
