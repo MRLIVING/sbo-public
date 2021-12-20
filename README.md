@@ -67,7 +67,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 ## Setup MSSQL Server on GCE
 ### [Editions and supported features of SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-version-15)
-### Machine & OS
+### GCE configuration
 * Image selection - Operating system version
   * `Windows Server Datacenter 2019` (*Server with Desktop Experience, x64 built on 20200908, supports Shielded VM features*)  
 * CPU/Memory
@@ -75,11 +75,15 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * Disks
   * drive `C:` with `200 GB` capacity.
   * drive `D:` with `500 GB` capacity.
-* 啟用磁碟 D
-  * 電腦管理 > 存放裝置 > 磁碟管理 > 啟用/格式化磁碟區 D
 
-### Windows firewall configuration 
-* [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
+### Windows configuration
+#### 啟用磁碟 D
+ * 電腦管理 > 存放裝置 > 磁碟管理 > 啟用/格式化磁碟區 D
+
+#### Firewall configuration  
+ * Windows 安全性 > 進階設定 > 輸入規則 > 新增規則
+ * Ports for TCP & UDP 
+   * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
 
 
 ## Setup SAP B1 Server on GCE
