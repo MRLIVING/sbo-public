@@ -75,6 +75,8 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 * Disks
   * drive `C:` with `200 GB` capacity.
   * drive `D:` with `500 GB` capacity.
+* 啟用磁碟 D
+  * 電腦管理 > 存放裝置 > 磁碟管理 > 啟用/格式化磁碟區 D
 
 ### Windows firewall configuration 
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
