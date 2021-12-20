@@ -82,7 +82,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
 
 #### Firewall configuration  
  * Windows 安全性 > 進階設定 > 輸入規則 > 新增規則
- * Ports for TCP & UDP 
+ * Ports under TCP & UDP 
    * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
 
 
