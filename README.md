@@ -74,7 +74,7 @@ please check [Here](https://github.com/MRLIVING/sap-b1/issues/4) to solve this p
   * `2vCPU with 13GB memory` (e2-medium), at least.
 * Disks
   * drive `C:` with `200 GB` capacity.
-  * drive `D:` with `300 GB` capacity.
+  * drive `D:` with `500 GB` capacity.
 
 ### Windows firewall configuration 
 * [Ports Used By the Database Engine](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-2016#BKMK_ssde)
