@@ -23,7 +23,7 @@
 
 
 ### Install SAP B1 Client 
-1. download [B1_SHR.zip](https://drive.google.com/file/d/1AVRcRGTCOk-jzGeX_dU57dYC0th_rrnL/view?usp=sharing) from cloud drive. (the process would take some minutes) 
+1. download [SAP B1 Client](https://drive.google.com/drive/folders/1Ww82OJDu42_1gwlusVLUZ3tJ-lDBwNV3?usp=sharing) from cloud drive. (the process would take some minutes) 
 
 2. **connect to the private cloud `vpc-erp` through VPN**.  
    please check [HERE](https://github.com/MRLIVING/vpn) to setup a VPN if you have not done it before.  
